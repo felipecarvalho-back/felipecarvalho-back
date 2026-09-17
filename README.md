@@ -50,6 +50,12 @@
 
 ---
 
+## 🎉 GitHub Stats
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=felipecarvalho-back&layout=compact&langs_count=6&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=felipecarvalho-back&layout=compact&langs_count=6&theme=dark_github)
+
+---
+
 ## 📫 Find Me On
 
 <p align="center">
