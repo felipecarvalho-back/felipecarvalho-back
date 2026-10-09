@@ -12,44 +12,28 @@ Desenvolvedor com foco em **Back-end & Arquitetura Web**, com foco no ecossistem
 
 - 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** pela **FATEC Carapicuíba**.
 - 🛠️ Especialista em soluções com **Laravel, Livewire e TALL Stack**.
-- ⚙️ Experiência com arquitetura MVC, autenticação segura, testes e integração de serviços.
+- ⚙️ Experiência com arquitetura MVC, autenticação segura e integração de serviços.
 - 🎯 Disponível para oportunidades de **Estágio**, **Júnior** e projetos **Freelance**.
 
 ---
 
-### 🛠️ Arsenal Tecnológico
+### 🛠️ Tech Stack & Ferramentas
 
-#### 🐘 Backend & Ecossistema PHP (Core Focus)
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" alt="PHP" title="PHP" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" title="Laravel" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg" width="40" height="40" alt="Livewire" title="Livewire" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" width="40" height="40" alt="Composer" title="Composer" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="40" height="40" alt="CodeIgniter" title="CodeIgniter" hspace="5"/>
-</p>
-
-#### 🗄️ Bancos de Dados & Caching
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" title="MySQL" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" title="Redis" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" title="MongoDB" hspace="5"/>
-</p>
-
-#### 🌐 Frontend Interativo & Integrações
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" width="40" height="40" alt="Alpine.js" title="Alpine.js" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript" title="JavaScript" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js" hspace="5"/>
-</p>
-
-#### ⚙️ Ferramentas & Outras Tecnologias
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" title="C#" hspace="5"/>
+  <!-- Core PHP -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
+  <!-- Bancos & Cache -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <!-- Front Interativo & DevOps -->
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=2D3748" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
